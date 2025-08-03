@@ -1,2 +1,28 @@
-# portfolio website
-My personal portfolio website built with HTML and CSS. It features sections for my professional certifications, key skills in programming languages, a showcase of my projects, and contact information.
+# **My Portfolio 🧑‍💻**
+
+
+
+✨ A personal portfolio website showcasing my skills, projects, and professional journey. ✨
+
+
+
+#### 🌟 **About**
+
+This is my personal website, a place to learn about my interests and experiences as a Computer Science undergraduate.
+
+
+
+#### 🚀 **Projects**
+
+Check out my projects in languages like C++, Python, HTML, and CSS.
+
+
+
+#### **🤝 Connect with Me**
+
+👔 LinkedIn: **https://www.linkedin.com/in/hitesh-namrani-5b36641b8/**
+
+🐙 GitHub: **https://github.com/hitesh-namrani**
+
+📧 Email: **hiteshnamrani@gmail.com**
+

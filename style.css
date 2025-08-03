@@ -1,0 +1,90 @@
+body{
+    background-color: black;
+    color: white;
+}
+#heading{
+    text-align: center;
+    font-size: 4em;
+    margin: 1px;
+}
+#titlebar{
+    background-color: blue;
+    border-radius: 50px;
+    color: red;
+    font-size:2em;
+    text-align: center;
+}
+.titlebar{  
+    margin:10px;
+    color: greenyellow;
+}
+#about{
+    text-align: center;
+    font-size: 3em;
+    margin: 1px;
+}
+#about-content{
+    font-size: 1.5em;
+}
+#certifications-heading{
+    text-align: center;
+    font-size: 3em;
+    margin: 1px;
+}
+#cppcertificatephoto{
+    width:50%;
+    float: left;
+    margin-right: 5%;
+    margin: 6px;
+    border: 5px solid black;
+}
+#cppcertificatecontent{
+    font-size: 2em;
+}
+#pythoncertificateimage{
+    width:50%;
+    float: right;
+    margin-left: 5%;
+    margin: 6px;
+    border: 5px solid black;
+}
+#pythoncertificatecontent{
+    font-size: 2em;
+}
+#clear{
+    clear: both;
+}
+#skills-heading{
+    text-align: center;
+    font-size: 3em;
+    margin: 1px;
+}
+#skills{
+    font-size: 2em;
+    color: orange;
+}
+#projects-heading{
+    text-align: center;
+    font-size: 3em;
+    margin: 1px;
+}
+#projects-list{
+    font-size: 2em;
+}
+.projects-list-element{
+    color: orange;
+}
+.projects-list-element:hover{
+    color: red;
+}
+#contact-heading{
+    text-align: center;
+    font-size: 3em;
+    margin: 1px;
+}
+#contact{
+    color: orange;
+}
+#contact:hover{
+    color: red;
+}
